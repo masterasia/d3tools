@@ -34,7 +34,9 @@ public class MainServer {
      * @param args
      */
     private static void weaponDPS(String[] args){
+        for (String temp:args){
 
+        }
     }
 
     /**
